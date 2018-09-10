@@ -10,3 +10,15 @@ input
         background-color: lightblue;
     }
 }
+#phonar
+{
+   margin: 1em;
+}
+#birthar
+{
+    padding: 1em;
+}
+#emailar
+{
+    margin: 1%;
+}
