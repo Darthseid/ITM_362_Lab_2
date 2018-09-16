@@ -22,6 +22,10 @@ input
 {
     margin: 1%;
 }
+#namar
+{
+	 font: 2em fantasy, sans-serif;
+}
 
 .button /*submission*/
  {
