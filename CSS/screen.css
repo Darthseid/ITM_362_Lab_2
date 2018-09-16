@@ -1,3 +1,36 @@
-input {
+input 
+{
     width: 40%;
+}
+
+@media only screen and (max-width: 600px) 
+{
+   form 
+   {
+        background-color: lightblue;
+    }
+}
+#phonar
+{
+   margin: 1em;
+}
+#birthar
+{
+    padding: 1em;
+}
+#emailar
+{
+    margin: 1%;
+}
+#namar
+{
+	 font: 2em fantasy, sans-serif;
+}
+
+.button /*submission*/
+ {
+    background-color: green; 
+    padding: 2.5em 2.2em;
+    text-align: center;
+    text-decoration: none;
 }
